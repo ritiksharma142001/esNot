@@ -1,0 +1,66 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-feature-settings:
+    'rlig' 1,
+    'calt' 1;
+}
+
+.home-content p {
+  margin-top: 1.5em;
+  line-height: 1.75em;
+}
+
+.home-content a {
+  --tw-ring-color: hsl(
+    var(--nextra-primary-hue) var(--nextra-primary-saturation) 50%/0.3
+  );
+  --tw-text-opacity: 1;
+  text-underline-position: under;
+  text-decoration-line: underline;
+  text-decoration-thickness: from-font;
+  color: hsl(
+    var(--nextra-primary-hue) var(--nextra-primary-saturation) 50% /
+      var(--tw-text-opacity)
+  );
+}
+
+figcaption {
+  font-size: 0.85rem;
+  line-height: 1.5rem;
+  display: block;
+  text-align: center;
+  margin-top: 0.5rem;
+}
+
+code.text-\[\.9em\] {
+  font-size: 14px;
+}
+
+@media screen and (max-width: 1200px) {
+  .home-content .hide-medium {
+    display: none;
+  }
+}
+
+/* code snippet */
+.codeBlock {
+  background: rgba(0, 0, 0, 0.1); /* Transparent background */
+  border-radius: 4px;
+  padding: 10px;
+  overflow-x: auto;
+}
+
+.codeBlock pre {
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.codeBlock code {
+  font-family: 'Source Code Pro', monospace;
+  font-size: 0.9em;
+}
+
+/* styles/globals.css */
