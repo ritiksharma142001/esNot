@@ -6,7 +6,7 @@ import { DocsThemeConfig } from 'nextra-theme-docs'
 const config: DocsThemeConfig = {
   logo: <span>esNot</span>,
   project: {
-    link: 'https://github.com/ritiksharma142001',
+    link: 'https://github.com/ritiksharma142001/esNot',
   },
   chat: {
     link: 'https://eritik.vercel.app',
@@ -22,7 +22,7 @@ const config: DocsThemeConfig = {
         </svg>
     ),
   },
-  docsRepositoryBase: 'https://github.com/ritiksharma142001',
+  docsRepositoryBase: 'https://github.com/ritiksharma142001/esNot/tree/main',
   footer: {
     text: (
       <span>

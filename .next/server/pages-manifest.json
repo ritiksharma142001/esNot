@@ -2,8 +2,6 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/mongodb": "pages/mongodb.js",
-  "/mongodb/glossary": "pages/mongodb/glossary.js",
-  "/mongodb/crud": "pages/mongodb/crud.js",
-  "/mongodb/crud/insert": "pages/mongodb/crud/insert.js"
+  "/": "pages/index.js",
+  "/mongodb": "pages/mongodb.js"
 }
