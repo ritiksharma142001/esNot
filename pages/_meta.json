@@ -4,5 +4,6 @@
   "linux": "Linux",
   "git-github": "Git & Github",
   "typescript": "Typescript",
-  "mongodb" : "MongoDB"
+  "mongodb" : "MongoDB",
+  "git" : "Gita"
 }
