@@ -3,5 +3,6 @@
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
   "/": "pages/index.js",
-  "/mongodb": "pages/mongodb.js"
+  "/gita": "pages/gita.js",
+  "/gita/1": "pages/gita/1.js"
 }
