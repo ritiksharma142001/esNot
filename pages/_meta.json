@@ -1,9 +1,6 @@
 {
   "index":"Home",
   "java": "Java Backend",
-  "linux": "Linux",
-  "git-github": "Git & Github",
   "typescript": "Typescript",
-  "mongodb" : "MongoDB",
-  "gita" : "Gita"
+  "mongodb" : "MongoDB"
 }
