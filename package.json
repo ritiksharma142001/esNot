@@ -22,6 +22,7 @@
     "@codesandbox/sandpack-react": "^2.6.7",
     "@codesandbox/sandpack-themes": "^2.0.21",
     "@next/mdx": "^14.2.6",
+    "@theme-ui/mdx": "^0.16.2",
     "fs-extra": "^11.1.1",
     "glob": "^10.2.6",
     "gray-matter": "^4.0.3",

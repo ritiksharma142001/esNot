@@ -32,8 +32,7 @@ const config: DocsThemeConfig = {
         </a>
         .
       </span>
-    ),
-
+    )
     
   },
   
@@ -48,8 +47,9 @@ const config: DocsThemeConfig = {
   sidebar: {
     defaultMenuCollapseLevel: 1,
   },
+  toc: {
+    backToTop: true,
+  },
 }
-
-
 
 export default config

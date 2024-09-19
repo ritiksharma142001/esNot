@@ -1,6 +1,147 @@
 {
-  "index":"Home",
-  "java": "Java Backend",
-  "typescript": "Typescript",
-  "mongodb" : "MongoDB"
+  "index1": {
+    "display": "hidden"
+  },
+  "guides-and-references": {
+    "display": "hidden"
+  },
+  "student-work": {
+    "display": "hidden"
+  },
+  "week-1": {
+    "display": "hidden"
+  },
+  "week-2": {
+    "display": "hidden"
+  },
+  "week-3": {
+    "display": "hidden"
+  },
+  "instructor-announcements": {
+    "display": "hidden"
+  },
+  "mongodb": {
+    "display": "hidden"
+  },
+  "index2": {
+    "display": "hidden"
+  },
+  "index3": {
+    "display": "hidden"
+  },
+  "index5": {
+    "display": "hidden"
+  },
+  "guide": {
+    "display": "hidden"
+  },
+  "--": {
+    "display": "hidden"
+  },
+  "docs-theme": {
+    "display": "hidden"
+  },
+  "blog-theme": {
+    "display": "hidden"
+  },
+  "custom-theme": {
+    "display": "hidden"
+  },
+  "-- More": {
+    "display": "hidden"
+  },
+  "about-link": {
+    "display": "hidden"
+  },
+  "next.js-link": {
+    "display": "hidden"
+  },
+  "typescript": {
+    "display": "hidden"
+  },
+  "index": {
+    "title": "Home",
+    "theme": {
+      "breadcrumb": true,
+      "footer": true,
+      "sidebar": true,
+      "toc": true,
+      "pagination": true
+    }
+  },
+  "---": {
+    "type": "separator"
+  },
+  "-- Programming Language": {
+    "type": "separator",
+    "title": "Language"
+  },
+  "java": {
+    "title": "Java"
+  },
+  "javascript": "javascript",
+  "python": "python",
+  "cplusplus": "C++",
+  "rust": "Rust",
+  "go": "Go",
+  "-----": {
+    "type": "separator"
+  },
+  "-- dsa": {
+    "type": "separator",
+    "title": "DSA"
+  },
+  "java1": {
+    "title": "Java"
+  },
+  "---------": {
+    "type": "separator"
+  },
+  "-- frontend": {
+    "type": "separator",
+    "title": "Frontend"
+  },
+  "java2": {
+    "title": "Java"
+  },
+  "--------": {
+    "type": "separator"
+  },
+  "-- backend": {
+    "type": "separator",
+    "title": "Backend"
+  },
+  "java3": {
+    "title": "Java"
+  },
+  "-------": {
+    "type": "separator"
+  },
+  "-- cs subjects": {
+    "type": "separator",
+    "title": "CS Subjects"
+  },
+  "java4": {
+    "title": "Java"
+  },
+  "----": {
+    "type": "separator"
+  },
+  "-- others": {
+    "type": "separator",
+    "title": "others"
+  },
+  "java5": {
+    "title": "Java"
+  },
+  "------": {
+    "type": "separator"
+  },
+  "-- Interview Questions": {
+    "type": "separator",
+    "title": "Interview Questions"
+  },
+  "res": {
+    "title": "Resource"
+  }
 }
