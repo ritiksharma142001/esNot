@@ -27,15 +27,10 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/interview": [
+    "/go/1": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/interview.js"
-    ],
-    "/interview/javascript-interview": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/interview/javascript-interview.js"
+      "static/chunks/pages/go/1.js"
     ]
   },
   "ampFirstPages": []

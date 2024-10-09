@@ -3,6 +3,5 @@
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
   "/": "pages/index.js",
-  "/interview": "pages/interview.js",
-  "/interview/javascript-interview": "pages/interview/javascript-interview.js"
+  "/go/1": "pages/go/1.js"
 }
