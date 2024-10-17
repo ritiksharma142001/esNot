@@ -47,6 +47,9 @@
     "type": "separator",
     "title": "Backend"
   },
+  "java2": {
+    "title": "Java Backend"
+  },
   "-- Interview Questions": {
     "type": "separator",
     "title": "Interview Questions"
