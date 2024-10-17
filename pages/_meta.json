@@ -51,7 +51,7 @@
     "title": "Frontend"
   },
   "java2": {
-    "title": "Java"
+    "title": "Java Backend"
   },
   "--------": {
     "type": "separator"
@@ -61,7 +61,7 @@
     "title": "Backend"
   },
   "java3": {
-    "title": "Java"
+    "title": "Java "
   },
   "-------": {
     "type": "separator"
