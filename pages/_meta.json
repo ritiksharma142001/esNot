@@ -40,48 +40,12 @@
     "type": "separator",
     "title": "DSA"
   },
-  "java1": {
-    "title": "Java"
-  },
-  "---------": {
-    "type": "separator"
-  },
-  "-- frontend": {
-    "type": "separator",
-    "title": "Frontend"
-  },
-  "java2": {
-    "title": "ReaJava Backend"
-  },
-  "--------": {
+  "------": {
     "type": "separator"
   },
   "-- backend": {
     "type": "separator",
     "title": "Backend"
-  },
-  "-------": {
-    "type": "separator"
-  },
-  "-- cs subjects": {
-    "type": "separator",
-    "title": "CS Subjects"
-  },
-  "java4": {
-    "title": "Java"
-  },
-  "----": {
-    "type": "separator"
-  },
-  "-- others": {
-    "type": "separator",
-    "title": "others"
-  },
-  "java5": {
-    "title": "Java"
-  },
-  "------": {
-    "type": "separator"
   },
   "-- Interview Questions": {
     "type": "separator",
