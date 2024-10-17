@@ -50,8 +50,8 @@
     "type": "separator",
     "title": "Frontend"
   },
-  "java2": {
-    "title": "Java Backend"
+  "react": {
+    "title": "React"
   },
   "--------": {
     "type": "separator"
@@ -60,8 +60,8 @@
     "type": "separator",
     "title": "Backend"
   },
-  "java3": {
-    "title": "Java "
+  "java2": {
+    "title": "Java Backend"
   },
   "-------": {
     "type": "separator"
